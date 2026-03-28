@@ -1,0 +1,15 @@
+{
+  "apphosting": {
+    "backendId": "riskly",
+    "rootDir": "/",
+    "ignore": [
+      "node_modules",
+      ".git",
+      "firebase-debug.log",
+      "firebase-debug.*.log",
+      "__tests__",
+      "vitest.config.mts",
+      "vitest.setup.ts"
+    ]
+  }
+}
